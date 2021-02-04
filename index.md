@@ -57,7 +57,7 @@ Presentations
 - **Grade:**
 
 
-### [Nord VPN breach](/pdf/nord.pdf)
+### [Nord VPN breach](/pdf/Nord.pdf)
 
 - **CSCI 301:** 
 - **Grade:**
