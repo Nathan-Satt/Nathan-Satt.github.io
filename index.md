@@ -51,9 +51,9 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Home Depot security breach](/pdf/Home-Depot.pdf)
 
-- **Class:** 
+- **CSCI 405:** 
 - **Grade:**
 
 
