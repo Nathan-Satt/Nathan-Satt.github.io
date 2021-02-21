@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Human Factors In Cyber Security](/pdf/Human-Factor.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **CSCI 405:**  
+-   **95:**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Intellectual Property](/pdf/Intellectual-Property.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **CSCI 332:** 
+-   **100:**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [What is copyright and how does it apply to computer programming](/pdf/copyright.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **CSCI 301:** 
+-   **95:**
 
 ---
 
@@ -54,13 +54,13 @@ Presentations
 ### [Home Depot security breach](/pdf/Home-Depot.pdf)
 
 - **CSCI 405:** 
-- **Grade:**
+- **95:**
 
 
 ### [Nord VPN breach](/pdf/Nord.pdf)
 
 - **CSCI 301:** 
-- **Grade:**
+- **97:**
 
 ---
 
