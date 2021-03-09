@@ -6,7 +6,7 @@ File transer client
 -   **CSCI 332:** 
 -   **100:**
 -   **C++:**
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/Nathan-Satt/FileTransfer/)  
+-   **Source Code Repository:** [File Transfer Client](https://github.com/Nathan-Satt/FileTransfer/)  
     (Please [email me](mailto:NDSatterfield@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
