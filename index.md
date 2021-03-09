@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [File Transfer Client | CSCI 332](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Client Input](images/Client.png)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
