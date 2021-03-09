@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+File transer client
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **CSCI 332:** 
+-   **100:**
+-   **C++:**
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/Nathan-Satt/FileTransfer/)  
+    (Please [email me](mailto:NDSatterfield@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -18,19 +18,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+g++ Client_task2.cpp -g -lpthread -lrt -o Client_task2.out
+./Client_task2.out
 ```
 
 ## UI Design
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![screenshot](images/Client.png)
+Fig 1. Client input prompts 
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+![screenshot](images/ServerSide.png)
+Fig 2. Server Side output
 
 ![screenshot](images/dummy_thumbnail.jpg)
 Fig 3. Feedback when an error occurs.
