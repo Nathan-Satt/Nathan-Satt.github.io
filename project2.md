@@ -6,7 +6,7 @@ Score Sort
 -   **CSCI 301:** 
 -   **100:**
 -   **Perl:**
--   **Source Code Repository:** [File Transfer Client](https://github.com/Nathan-Satt/ScoreSort/)  
+-   **Source Code Repository:** [Score Sort](https://github.com/Nathan-Satt/ScoreSort/)  
     (Please [email me](mailto:NDSatterfield@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
