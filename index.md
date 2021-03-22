@@ -12,9 +12,9 @@ Programming Projects
 ![Client Input](images/Client.png)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Score Sort | CSCI 301](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Sorted Scores](images/sorted.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
