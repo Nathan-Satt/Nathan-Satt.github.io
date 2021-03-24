@@ -17,7 +17,7 @@ Programming Projects
 ![Sorted Scores](images/sorted.png)
 
 ---
-### [String Conversion | CSCI 325](project2)
+### [String Conversion | CSCI 325](project3)
 
 ![Compressed String](images/compress.PNG)
 
