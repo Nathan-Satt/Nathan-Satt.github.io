@@ -30,16 +30,16 @@ java TestIsOperator
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/compress.png)
+![screenshot](images/compress.PNG)
 Fig 1. Output of TestCompress 
 
-![screenshot](images/infix.png)
+![screenshot](images/infix.PNG)
 Fig 2. Output of TestInfix 
 
-![screenshot](images/pal.png)
+![screenshot](images/pal.PNG)
 Fig 3. Output of TestPal
 
-![screenshot](images/op.png)
+![screenshot](images/op.PNG)
 Fig 4. Output of TestIsOperator
 
 ## 3. Additional Considerations
