@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [String Conversion | CSCI 325](project2)
 
-![Compressed String](images/compress.png)
+![Compressed String](images/compress.PNG)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
