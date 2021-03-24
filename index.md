@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Project 4 Title | CSCI 330](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![GCD](images/gcd.png)
 
 ---
 
