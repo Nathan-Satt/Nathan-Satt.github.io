@@ -22,7 +22,7 @@ Programming Projects
 ![Compressed String](images/compress.PNG)
 
 ---
-### [Project 4 Title | CSCI 330](project4)
+### [Greatest Common Divisor | CSCI 330](project4)
 
 ![GCD](images/gcd.png)
 
