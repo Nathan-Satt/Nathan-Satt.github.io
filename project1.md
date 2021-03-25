@@ -34,7 +34,7 @@ Fig 2. Server Side output
 
 ## 3. Additional Considerations
 
-For the file transfer client to work there must be an accompanying server to transfer the file to. The client and server must also be able to communicate over the network on the given port so in some cases firewall rules may be necessary for the file to reach the server.
+For the file transfer client to work there must be an accompanying server to transfer the file to. The client and server must also be able to communicate over the network on the given port so in some cases firewall rules may be necessary for the client to be able reach the server.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
