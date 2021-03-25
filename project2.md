@@ -11,7 +11,7 @@ Score Sort
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This program reads in a lists of names and scores from the text file scores.txt which it then stores as a hash. It then adds all the scores together and divides by the total number of scores to get the average which it then writes to the file average.txt. It then sorts the hash based on score with the lowest score at the top and highest at the bottom and writes the names and scores to sorted.txt and stores the name of the person with the highest score. It then writes the winners name and score to winner.txt 
 
 ## How to compiles / run the program
 
@@ -23,7 +23,7 @@ How to compile (if applicable) and run the project.
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+This programs takes a list of names and socres seperated by a space with one entry per line stored in scores.txt (see Fig 1). It then uses that imput to calculte the average score (see Fig 2). It also sorts the scores and writes the sorted values to a file (see Fig 3). Lastly it takes the highest scoring person and writes their name and score to a file (see Fig 4).
 
 ![screenshot](images/score.png)
 Fig 1. Unsorted list of scores 
@@ -35,10 +35,10 @@ Fig 2. Average score
 Fig 3. Sorted list of scores
 
 ![screenshot](images/winner.png)
-Fig 3. Name of the winner and their score 
+Fig 4. Name of the winner and their score 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+For this progran to work the list of names must be stored in a file called scores.txt and the format must be a name followed by a space and then the score. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
