@@ -24,7 +24,7 @@ g++ Client_task2.cpp -g -lpthread -lrt -o Client_task2.out
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+When the program is run it first asks the user for the port number that the server is listening on, it then asks for the IP address for the server, and lastly it asks the user for the name of the file to be sent (see Fig 1). On the server side when the program is started it asks for a port number to set the listening port (see Fig 2). Once a client contacts the server the server will print out the size of the file being sent to the console and then as packets start arriving the server prints outthe packent number and amount of data recived in each packet until the transfer is complete and the program exits (see Fig 2).  
 
 ![screenshot](images/Client.png)
 Fig 1. Client input prompts 
@@ -34,7 +34,7 @@ Fig 2. Server Side output
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+For the file transfer client to work there must be an accompanying server to transfer the file to. The client and server must also be able to communicate over the network on the given port so in some cases firewall rules may be necessary for the file to reach the server.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
