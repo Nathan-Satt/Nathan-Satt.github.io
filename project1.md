@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-File transer client
+File Transfer Client
 ===============
 
 -   **CSCI 332:** 
@@ -11,7 +11,7 @@ File transer client
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This program allows a user to send a text file over the network to a remote server running the accompaning server side code. The program asks the user for a port number IP address and file name and it then begins to send the file. It does this by finding the length of the file which it then sends to the server so the server will know when the transfer is complete. It then begins reading in the file 999 bits at a time and then sending that chunk as a single packet this is done untill there is no more data left to send.
 
 ## How to compiles / run the program
 
