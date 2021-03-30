@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-File transer client
+String Conversion
 ===============
 
 -   **CSCI 325:** 
@@ -11,7 +11,7 @@ File transer client
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This program provides several functions for formating and testing with strings. The first operation it does is compress strings by removing repeated letters and adding a counter if the letter appears more than once. It also has functions to convert equations from postfix to infix format and from prefix to infix format. There is also a function to check if a string is an arithmetic operator which is used to when converting from postfix to infix or prefix to infix. The last function this program can preform is checking if a given string is a palindrome.
 
 ## How to compiles / run the program
 
@@ -28,7 +28,7 @@ java TestIsOperator
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+When a string is compressed the program will return the compressed string which can then be printed to the console (see Fig 1). The program doess the same when converting from either prefix or postfix to infix where the new string is returned and can then be printed (see Fig 2). When converting from postfix or prefix to infix sometimes the given equation is not correcly formated which will causes an excption which is then caught an the function then returns an error message (see Fig 2). The last two functions test if a string is a palindrome and if a string is an arithmetic operator these functions will return true if the string is or false if it is not (see Fig 3 & 4).
 
 ![screenshot](images/compress.PNG)
 Fig 1. Output of TestCompress 
@@ -44,8 +44,6 @@ Fig 4. Output of TestIsOperator
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The program does not print any of the values out itself the values are returned as strings or booleans which can then be printed otherwise the program will not have any output.
 
 [Back to Portfolio](./)
