@@ -40,6 +40,4 @@ Fig 4. Name of the winner and their score
 
 For this progran to work the list of names must be stored in a file called scores.txt and the format must be a name followed by a space and then the score. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 [Back to Portfolio](./)
