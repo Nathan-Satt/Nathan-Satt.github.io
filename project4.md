@@ -24,7 +24,7 @@ nasm -felf64 lab10.asm && gcc -no-pie -fPIC lab10.o -o GreatestCommonDivisor.out
 
 ## UI Design
 
-The program takes to coded in numbers and prints out the the result of the greatest common divisor calculation (see Fig 1).
+The program takes two numbers and prints out the the result of the greatest common divisor calculation (see Fig 1).
 
 ![screenshot](images/gcd.png)
 Fig 1. Greatest common divisor of 120 and 15 as well as 125 and 15
