@@ -7,11 +7,6 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:NDSatterfield@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [File Transfer Client | CSCI 332](project1)
-
-![Client Input](images/Client.png)
-
----
 ### [Score Sort | CSCI 301](project2)
 
 ![Sorted Scores](images/sorted.png)
@@ -25,6 +20,12 @@ Programming Projects
 ### [Greatest Common Divisor | CSCI 330](project4)
 
 ![GCD](images/gcd.png)
+
+
+---
+### [File Transfer Client | CSCI 332](project1)
+
+![Client Input](images/Client.png)
 
 ---
 
